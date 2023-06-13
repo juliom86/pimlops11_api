@@ -1,0 +1,513 @@
+title,vote_average,vote_count,year
+The Shawshank Redemption,8.5,8358.0,1994
+The Godfather,8.5,6024.0,1972
+Life Is Beautiful,8.3,3643.0,1997
+Spirited Away,8.3,3968.0,2001
+One Flew Over the Cuckoo's Nest,8.3,3001.0,1975
+Psycho,8.3,2405.0,1960
+Fight Club,8.3,9678.0,1999
+The Godfather: Part II,8.3,3418.0,1974
+The Dark Knight,8.3,12269.0,2008
+Pulp Fiction,8.3,8670.0,1994
+Whiplash,8.3,4376.0,2014
+Schindler's List,8.3,4436.0,1993
+The Empire Strikes Back,8.2,5998.0,1980
+12 Angry Men,8.2,2130.0,1957
+GoodFellas,8.2,3211.0,1990
+American History X,8.2,3120.0,1998
+Forrest Gump,8.2,8147.0,1994
+Leon: The Professional,8.2,4293.0,1994
+Princess Mononoke,8.2,2041.0,1997
+The Intouchables,8.2,5410.0,2011
+The Green Mile,8.2,4166.0,1999
+Howl's Moving Castle,8.2,2049.0,2004
+Inception,8.1,14075.0,2010
+The Shining,8.1,3890.0,1980
+Interstellar,8.1,11187.0,2014
+"The Good, the Bad and the Ugly",8.1,2371.0,1966
+Memento,8.1,4168.0,2000
+The Lord of the Rings: The Return of the King,8.1,8226.0,2003
+Reservoir Dogs,8.1,3821.0,1992
+Dead Poets Society,8.1,2786.0,1989
+The Silence of the Lambs,8.1,4549.0,1991
+Room,8.1,2838.0,2015
+Se7en,8.1,5915.0,1995
+Star Wars,8.1,6778.0,1977
+The Usual Suspects,8.1,3334.0,1995
+Taxi Driver,8.1,2632.0,1976
+The Lord of the Rings: The Fellowship of the Ring,8.0,8892.0,2001
+Back to the Future,8.0,6239.0,1985
+Scarface,8.0,3017.0,1983
+A Clockwork Orange,8.0,3432.0,1971
+Apocalypse Now,8.0,2112.0,1979
+The Lion King,8.0,5520.0,1994
+The Imitation Game,8.0,5895.0,2014
+The Grand Budapest Hotel,8.0,4644.0,2014
+The Prestige,8.0,4510.0,2006
+The Lord of the Rings: The Two Towers,8.0,7641.0,2002
+Good Will Hunting,7.9,2880.0,1997
+2001: A Space Odyssey,7.9,3075.0,1968
+Gone Girl,7.9,6023.0,2014
+American Beauty,7.9,3438.0,1999
+Guardians of the Galaxy,7.9,10014.0,2014
+Blade Runner,7.9,3833.0,1982
+Saving Private Ryan,7.9,5148.0,1998
+Harry Potter and the Deathly Hallows: Part 2,7.9,6141.0,2011
+La La Land,7.9,4745.0,2016
+Inglourious Basterds,7.9,6598.0,2009
+Her,7.9,4215.0,2013
+The Wolf of Wall Street,7.9,6768.0,2013
+Prisoners,7.9,3183.0,2013
+Gladiator,7.9,5566.0,2000
+Full Metal Jacket,7.9,2595.0,1987
+Requiem for a Dream,7.9,2525.0,2000
+Dallas Buyers Club,7.9,2973.0,2013
+Alien,7.9,4564.0,1979
+The Departed,7.9,4455.0,2006
+Return of the Jedi,7.9,4763.0,1983
+12 Years a Slave,7.9,3787.0,2013
+Eternal Sunshine of the Spotless Mind,7.9,3758.0,2004
+Inside Out,7.9,6737.0,2015
+The Matrix,7.9,9079.0,1999
+Hidden Figures,7.8,2178.0,2016
+Amélie,7.8,3403.0,2001
+Django Unchained,7.8,10297.0,2012
+The Breakfast Club,7.8,2189.0,1985
+Shutter Island,7.8,6559.0,2010
+The Theory of Everything,7.8,3403.0,2014
+Trainspotting,7.8,2737.0,1996
+Into the Wild,7.8,3139.0,2007
+Spotlight,7.8,2751.0,2015
+Hacksaw Ridge,7.8,3294.0,2016
+WALL·E,7.8,6439.0,2008
+Gran Torino,7.8,3181.0,2008
+About Time,7.8,2140.0,2013
+The Truman Show,7.8,4702.0,1998
+Big Hero 6,7.8,6289.0,2014
+The Big Lebowski,7.8,3001.0,1998
+Up,7.8,7048.0,2009
+The Notebook,7.7,3163.0,2004
+Harry Potter and the Prisoner of Azkaban,7.7,6037.0,2004
+No Country for Old Men,7.7,3083.0,2007
+The Perks of Being a Wallflower,7.7,3056.0,2012
+The Pursuit of Happyness,7.7,2607.0,2006
+Donnie Darko,7.7,3574.0,2001
+Kill Bill: Vol. 2,7.7,4061.0,2004
+Catch Me If You Can,7.7,3917.0,2002
+Kill Bill: Vol. 1,7.7,5091.0,2003
+A Beautiful Mind,7.7,3087.0,2001
+V for Vendetta,7.7,4562.0,2006
+Toy Story,7.7,5415.0,1995
+Rush,7.7,2310.0,2013
+Aliens,7.7,3282.0,1986
+Braveheart,7.7,3404.0,1995
+Zootopia,7.7,4961.0,2016
+Terminator 2: Judgment Day,7.7,4274.0,1991
+Fargo,7.7,2080.0,1996
+Raiders of the Lost Ark,7.7,3949.0,1981
+Million Dollar Baby,7.7,2519.0,2004
+Snatch,7.7,2953.0,2000
+The Sixth Sense,7.7,3223.0,1999
+Guardians of the Galaxy Vol. 2,7.6,4858.0,2017
+Indiana Jones and the Last Crusade,7.6,3221.0,1989
+Logan,7.6,6310.0,2017
+Jurassic Park,7.6,4956.0,1993
+The Nightmare Before Christmas,7.6,2135.0,1993
+The Hobbit: The Desolation of Smaug,7.6,4633.0,2013
+Pan's Labyrinth,7.6,3122.0,2006
+Me Before You,7.6,2674.0,2016
+The Dark Knight Rises,7.6,9263.0,2012
+The Martian,7.6,7442.0,2015
+The Hateful Eight,7.6,4405.0,2015
+Big Fish,7.6,2064.0,2003
+Captain America: The Winter Soldier,7.6,5881.0,2014
+Edge of Tomorrow,7.6,4979.0,2014
+Finding Nemo,7.6,6292.0,2003
+Slumdog Millionaire,7.6,2918.0,2008
+Mulan,7.6,2089.0,1998
+The King's Speech,7.6,2817.0,2010
+The Fault in Our Stars,7.6,3868.0,2014
+Toy Story 3,7.6,4710.0,2010
+Nightcrawler,7.6,3475.0,2014
+How to Train Your Dragon 2,7.6,3163.0,2014
+Ex Machina,7.6,4862.0,2015
+Kingsman: The Secret Service,7.6,6069.0,2015
+Captain Phillips,7.6,2495.0,2013
+Ratatouille,7.5,4510.0,2007
+Boyhood,7.5,2008.0,2014
+Star Wars: The Force Awakens,7.5,7993.0,2015
+The Lego Movie,7.5,3127.0,2014
+Shaun of the Dead,7.5,2479.0,2004
+How to Train Your Dragon,7.5,4319.0,2010
+Seven Pounds,7.5,2092.0,2008
+Harry Potter and the Goblet of Fire,7.5,5758.0,2005
+Harry Potter and the Deathly Hallows: Part 1,7.5,5708.0,2010
+Batman Begins,7.5,7511.0,2005
+X-Men: Days of Future Past,7.5,6155.0,2014
+Dunkirk,7.5,2712.0,2017
+Pirates of the Caribbean: The Curse of the Black Pearl,7.5,7191.0,2003
+"Monsters, Inc.",7.5,6150.0,2001
+Jaws,7.5,2628.0,1975
+The Exorcist,7.5,2046.0,1973
+Edward Scissorhands,7.5,3731.0,1990
+Die Hard,7.5,4005.0,1988
+Cast Away,7.5,3304.0,2000
+Beauty and the Beast,7.5,3029.0,1991
+Titanic,7.5,7770.0,1997
+Harry Potter and the Philosopher's Stone,7.5,7188.0,2001
+The Incredibles,7.4,5290.0,2004
+Children of Men,7.4,2120.0,2006
+Harry Potter and the Chamber of Secrets,7.4,5966.0,2002
+American Sniper,7.4,4600.0,2014
+Blood Diamond,7.4,2344.0,2006
+Hot Fuzz,7.4,2252.0,2007
+Star Trek,7.4,4574.0,2009
+Birdman,7.4,4657.0,2014
+Tangled,7.4,3419.0,2010
+Harry Potter and the Order of the Phoenix,7.4,5633.0,2007
+The Hunger Games: Catching Fire,7.4,6656.0,2013
+Midnight in Paris,7.4,2049.0,2011
+Drive,7.4,3832.0,2011
+The Conjuring,7.4,3169.0,2013
+Fury,7.4,4028.0,2014
+Iron Man,7.4,8951.0,2008
+The Avengers,7.4,12000.0,2012
+Star Trek Into Darkness,7.4,4479.0,2013
+Back to the Future Part II,7.4,3926.0,1989
+Harry Potter and the Half-Blood Prince,7.4,5435.0,2009
+The Terminator,7.4,4208.0,1984
+Deadpool,7.4,11444.0,2016
+Aladdin,7.4,3495.0,1992
+Rogue One: A Star Wars Story,7.4,5111.0,2016
+The Age of Adaline,7.4,2052.0,2015
+Twelve Monkeys,7.4,2470.0,1995
+Groundhog Day,7.4,2358.0,1993
+The Bourne Identity,7.3,3640.0,2002
+The Curious Case of Benjamin Button,7.3,3398.0,2008
+Moana,7.3,3471.0,2016
+Shrek,7.3,4183.0,2001
+District 9,7.3,3451.0,2009
+Pitch Perfect,7.3,2310.0,2012
+The Big Short,7.3,2679.0,2015
+The Great Gatsby,7.3,3885.0,2013
+Now You See Me,7.3,5635.0,2013
+Mad Max: Fury Road,7.3,9629.0,2015
+The Revenant,7.3,6558.0,2015
+Gravity,7.3,5879.0,2013
+The Fifth Element,7.3,3962.0,1997
+Southpaw,7.3,2112.0,2015
+Black Swan,7.3,4562.0,2010
+Toy Story 2,7.3,3914.0,1999
+Dawn of the Planet of the Apes,7.3,4511.0,2014
+Avengers: Age of Ultron,7.3,6908.0,2015
+Frozen,7.3,5440.0,2013
+The Butterfly Effect,7.3,2119.0,2004
+E.T. the Extra-Terrestrial,7.3,3359.0,1982
+Ghostbusters,7.3,2431.0,1984
+Zodiac,7.3,2080.0,2007
+Predator,7.3,2129.0,1987
+Casino Royale,7.3,3930.0,2006
+Furious 7,7.3,4253.0,2015
+American Psycho,7.3,2128.0,2000
+The Bourne Ultimatum,7.3,2938.0,2007
+Get Out,7.2,2978.0,2017
+Zombieland,7.2,3655.0,2009
+Baby Driver,7.2,2083.0,2017
+Scott Pilgrim vs. the World,7.2,2185.0,2010
+Avatar,7.2,12114.0,2009
+Fantastic Beasts and Where to Find Them,7.2,5612.0,2016
+(500) Days of Summer,7.2,2993.0,2009
+Arrival,7.2,5729.0,2016
+The Girl with the Dragon Tattoo,7.2,2479.0,2011
+Life of Pi,7.2,5912.0,2012
+Bridge of Spies,7.2,2633.0,2015
+Wonder Woman,7.2,5025.0,2017
+Sicario,7.2,2465.0,2015
+Ocean's Eleven,7.2,3857.0,2001
+Saw,7.2,2255.0,2004
+Sin City,7.2,2755.0,2005
+The Hangover,7.2,6324.0,2009
+The Bourne Supremacy,7.2,2873.0,2004
+Taken,7.2,4444.0,2008
+Doctor Strange,7.1,5880.0,2016
+Star Wars: Episode III - Revenge of the Sith,7.1,4200.0,2005
+Despicable Me,7.1,6595.0,2010
+X-Men: First Class,7.1,5252.0,2011
+The Equalizer,7.1,2997.0,2014
+The Social Network,7.1,3492.0,2010
+Captain America: Civil War,7.1,7462.0,2016
+The Man from U.N.C.L.E.,7.1,2306.0,2015
+Mission: Impossible - Rogue Nation,7.1,3274.0,2015
+Argo,7.1,3473.0,2012
+Limitless,7.1,3888.0,2011
+Source Code,7.1,2752.0,2011
+Fast Five,7.1,2491.0,2011
+Ice Age,7.1,3954.0,2002
+Nerve,7.1,2262.0,2016
+Home Alone,7.1,2487.0,1990
+Wreck-It Ralph,7.1,4656.0,2012
+Kick-Ass,7.1,4747.0,2010
+Minority Report,7.1,2663.0,2002
+The Hobbit: The Battle of the Five Armies,7.1,4884.0,2014
+Back to the Future Part III,7.1,2978.0,1990
+Indiana Jones and the Temple of Doom,7.1,2841.0,1984
+Sherlock Holmes: A Game of Shadows,7.0,3971.0,2011
+The Maze Runner,7.0,5540.0,2014
+Maleficent,7.0,4607.0,2014
+John Wick,7.0,5499.0,2014
+"Crazy, Stupid, Love.",7.0,2522.0,2011
+Rise of the Planet of the Apes,7.0,4452.0,2011
+Hugo,7.0,2197.0,2011
+Juno,7.0,2313.0,2007
+Watchmen,7.0,2892.0,2009
+The Impossible,7.0,2071.0,2012
+Silver Linings Playbook,7.0,4840.0,2012
+Monsters University,7.0,3622.0,2013
+The Hobbit: An Unexpected Journey,7.0,8427.0,2012
+22 Jump Street,7.0,3375.0,2014
+Ant-Man,7.0,6029.0,2015
+Pirates of the Caribbean: Dead Man's Chest,7.0,5380.0,2006
+Despicable Me 2,7.0,4729.0,2013
+The Devil Wears Prada,7.0,3198.0,2006
+Batman,7.0,2145.0,1989
+300,7.0,5092.0,2006
+Split,7.0,4461.0,2016
+127 Hours,7.0,2668.0,2010
+Superbad,7.0,2152.0,2007
+Sully,7.0,2106.0,2016
+The Conjuring 2,7.0,2018.0,2016
+The Nice Guys,7.0,2382.0,2016
+Sherlock Holmes,7.0,5883.0,2009
+The Secret Life of Walter Mitty,7.0,3213.0,2013
+The Simpsons Movie,6.9,2335.0,2007
+Skyfall,6.9,7718.0,2012
+Spy,6.9,2590.0,2015
+The Accountant,6.9,2121.0,2016
+Divergent,6.9,4784.0,2014
+The Hunger Games,6.9,9634.0,2012
+Die Hard: With a Vengeance,6.9,2094.0,1995
+Jumanji,6.9,2413.0,1995
+Pirates of the Caribbean: At World's End,6.9,4627.0,2007
+Troy,6.9,2841.0,2004
+Kung Fu Panda,6.9,3231.0,2008
+Men in Black,6.9,4521.0,1997
+Mean Girls,6.9,2401.0,2004
+I Am Legend,6.9,4977.0,2007
+Iron Man 3,6.8,8951.0,2013
+X-Men,6.8,4172.0,2000
+X2,6.8,3572.0,2003
+Sing,6.8,2363.0,2016
+The Fate of the Furious,6.8,3803.0,2017
+Beauty and the Beast,6.8,5530.0,2017
+10 Cloverfield Lane,6.8,2537.0,2016
+Hotel Transylvania,6.8,2622.0,2012
+American Hustle,6.8,2868.0,2013
+The Croods,6.8,2447.0,2013
+A Bug's Life,6.8,2379.0,1998
+Finding Dory,6.8,4333.0,2016
+Spider-Man,6.8,5398.0,2002
+A.I. Artificial Intelligence,6.8,2011.0,2001
+Mission: Impossible - Ghost Protocol,6.8,4026.0,2011
+Non-Stop,6.8,2302.0,2014
+We're the Millers,6.8,3053.0,2013
+Thor: The Dark World,6.8,4873.0,2013
+Spider-Man 2,6.7,4432.0,2004
+The Matrix Reloaded,6.7,3500.0,2003
+Fast & Furious 6,6.7,5282.0,2013
+Mission: Impossible,6.7,2677.0,1996
+The Jungle Book,6.7,2977.0,2016
+Charlie and the Chocolate Factory,6.7,3759.0,2005
+John Wick: Chapter 2,6.7,2924.0,2017
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.7,2709.0,2005
+In Time,6.7,3512.0,2011
+The Adventures of Tintin,6.7,2095.0,2011
+Brave,6.7,4760.0,2012
+Passengers,6.7,4134.0,2016
+Focus,6.7,2588.0,2015
+Pacific Rim,6.7,4903.0,2013
+Now You See Me 2,6.7,3362.0,2016
+"I, Robot",6.7,3889.0,2004
+World War Z,6.7,5683.0,2013
+Independence Day,6.7,3334.0,1996
+21 Jump Street,6.7,4151.0,2012
+Snowpiercer,6.7,2910.0,2013
+Easy A,6.7,2282.0,2010
+Shrek 2,6.7,3082.0,2004
+Cinderella,6.7,2426.0,2015
+The Fast and the Furious,6.6,3485.0,2001
+The Purge: Anarchy,6.6,2008.0,2014
+Underworld,6.6,2556.0,2003
+The Mummy,6.6,2796.0,1999
+Ender's Game,6.6,2354.0,2013
+The Cabin in the Woods,6.6,2314.0,2012
+50 First Dates,6.6,2161.0,2004
+The Hunger Games: Mockingjay - Part 2,6.6,4117.0,2015
+The Book of Eli,6.6,2207.0,2010
+Iron Man 2,6.6,6969.0,2010
+The Mask,6.6,2550.0,1994
+RED,6.6,2858.0,2010
+Rango,6.6,2094.0,2011
+Thor,6.6,6678.0,2011
+Madagascar,6.6,3322.0,2005
+Super 8,6.6,2496.0,2011
+Captain America: The First Avenger,6.6,7174.0,2011
+Real Steel,6.6,2749.0,2011
+Star Trek Beyond,6.6,2636.0,2016
+King Kong,6.6,2403.0,2005
+Transformers,6.6,4113.0,2007
+Chappie,6.6,3124.0,2015
+The Hunger Games: Mockingjay - Part 1,6.6,5767.0,2014
+Cars,6.6,3991.0,2006
+Looper,6.6,4777.0,2012
+Pirates of the Caribbean: Dead Men Tell No Tales,6.6,2814.0,2017
+Cloud Atlas,6.6,3031.0,2012
+Armageddon,6.5,2540.0,1998
+Jurassic World,6.5,8842.0,2015
+Miss Peregrine's Home for Peculiar Children,6.5,3213.0,2016
+Maze Runner: The Scorch Trials,6.5,3148.0,2015
+Ice Age: The Meltdown,6.5,3034.0,2006
+Mission: Impossible III,6.5,2062.0,2006
+The Amazing Spider-Man 2,6.5,4274.0,2014
+Mr. & Mrs. Smith,6.5,3048.0,2005
+The Da Vinci Code,6.5,2773.0,2006
+Hellboy,6.5,2278.0,2004
+Ocean's Thirteen,6.5,2040.0,2007
+Ice Age: Dawn of the Dinosaurs,6.5,2330.0,2009
+Rio,6.5,2213.0,2011
+Angels & Demons,6.5,2183.0,2009
+Flight,6.5,2449.0,2012
+Fast & Furious,6.5,2426.0,2009
+The Amazing Spider-Man,6.5,6734.0,2012
+Friends with Benefits,6.5,2306.0,2011
+Man of Steel,6.5,6462.0,2013
+American Pie,6.4,2358.0,1999
+Elysium,6.4,3510.0,2013
+Warm Bodies,6.4,2698.0,2013
+Pirates of the Caribbean: On Stranger Tides,6.4,5068.0,2011
+Wanted,6.4,2583.0,2008
+Bruce Almighty,6.4,3121.0,2003
+Oblivion,6.4,4862.0,2013
+Resident Evil,6.4,2100.0,2002
+Star Wars: Episode II - Attack of the Clones,6.4,4074.0,2002
+Ocean's Twelve,6.4,2169.0,2004
+Minions,6.4,4729.0,2015
+Alice in Wonderland,6.4,4773.0,2010
+Night at the Museum,6.4,2949.0,2006
+X-Men: Apocalypse,6.4,4831.0,2016
+Star Wars: Episode I - The Phantom Menace,6.4,4526.0,1999
+The Matrix Revolutions,6.4,3155.0,2003
+Live Free or Die Hard,6.4,2122.0,2007
+Horrible Bosses,6.4,2341.0,2011
+Cloverfield,6.4,2297.0,2008
+Prometheus,6.3,5152.0,2012
+Warcraft,6.3,2325.0,2016
+The Wolverine,6.3,4110.0,2013
+Spectre,6.3,4552.0,2015
+Jack Reacher,6.3,3046.0,2012
+X-Men: The Last Stand,6.3,3581.0,2006
+Ted,6.3,4811.0,2012
+Lucy,6.3,6048.0,2014
+Kick-Ass 2,6.3,2275.0,2013
+Home Alone 2: Lost in New York,6.3,2459.0,1992
+TRON: Legacy,6.3,2895.0,2010
+Men in Black 3,6.3,4228.0,2012
+2 Fast 2 Furious,6.2,2087.0,2003
+The Day After Tomorrow,6.2,2462.0,2004
+War of the Worlds,6.2,2397.0,2005
+The 40 Year Old Virgin,6.2,2020.0,2005
+Insurgent,6.2,3921.0,2015
+Ice Age: Continental Drift,6.2,2731.0,2012
+Ted 2,6.2,2524.0,2015
+Hancock,6.2,3050.0,2008
+Tomorrowland,6.2,2904.0,2015
+Olympus Has Fallen,6.2,3010.0,2013
+Kong: Skull Island,6.2,3161.0,2017
+Prince of Persia: The Sands of Time,6.2,2372.0,2010
+X-Men Origins: Wolverine,6.2,4086.0,2009
+Salt,6.2,2125.0,2010
+Neighbors,6.2,2773.0,2014
+This Is the End,6.2,2394.0,2013
+Dracula Untold,6.2,2439.0,2014
+Riddick,6.2,2066.0,2013
+The Lost World: Jurassic Park,6.2,2528.0,1997
+The Hangover Part II,6.2,3836.0,2011
+Despicable Me 3,6.2,2002.0,2017
+Men in Black II,6.1,3188.0,2002
+The Boss Baby,6.1,2336.0,2017
+300: Rise of an Empire,6.1,2438.0,2014
+Godzilla,6.1,3232.0,2014
+John Carter,6.1,2170.0,2012
+The Interview,6.1,2340.0,2014
+The Expendables 2,6.1,2940.0,2012
+Transformers: Dark of the Moon,6.1,3351.0,2011
+Quantum of Solace,6.1,3015.0,2008
+The Incredible Hulk,6.1,3086.0,2008
+Taken 2,6.1,2783.0,2012
+The Twilight Saga: Breaking Dawn - Part 2,6.1,2641.0,2012
+Taken 3,6.1,2225.0,2014
+Percy Jackson & the Olympians: The Lightning Thief,6.0,2079.0,2010
+The Expendables,6.0,2977.0,2010
+Fifty Shades Darker,6.0,2341.0,2017
+Shrek Forever After,6.0,2021.0,2010
+Transformers: Revenge of the Fallen,6.0,3192.0,2009
+The Purge,6.0,2498.0,2013
+Click,6.0,2167.0,2006
+The Bourne Legacy,6.0,2683.0,2012
+San Andreas,6.0,3017.0,2015
+Shrek the Third,6.0,2355.0,2007
+The Mummy Returns,6.0,2258.0,2001
+The Hangover Part III,6.0,2991.0,2013
+Allegiant,5.9,2064.0,2016
+Jason Bourne,5.9,2386.0,2016
+Terminator Salvation,5.9,2496.0,2009
+Ghost in the Shell,5.9,2547.0,2017
+Transcendence,5.9,2339.0,2014
+The Twilight Saga: Eclipse,5.9,2382.0,2010
+The Magnificent Seven,5.9,2358.0,2016
+Spider-Man 3,5.9,3687.0,2007
+Night at the Museum: Battle of the Smithsonian,5.9,2026.0,2009
+The Lone Ranger,5.9,2361.0,2013
+Suicide Squad,5.9,7717.0,2016
+The Secret Life of Pets,5.9,3536.0,2016
+Terminator 3: Rise of the Machines,5.9,2177.0,2003
+Teenage Mutant Ninja Turtles,5.8,2677.0,2014
+Transformers: Age of Extinction,5.8,3136.0,2014
+Terminator Genisys,5.8,3677.0,2015
+Total Recall,5.8,2540.0,2012
+The Twilight Saga: Breaking Dawn - Part 1,5.8,2622.0,2011
+Twilight,5.8,3688.0,2008
+Snow White and the Huntsman,5.8,3183.0,2012
+Cars 2,5.8,2088.0,2011
+Indiana Jones and the Kingdom of the Crystal Skull,5.7,2558.0,2008
+Lara Croft: Tomb Raider,5.7,2235.0,2001
+RoboCop,5.7,2385.0,2014
+Dark Shadows,5.7,2383.0,2012
+Inferno,5.7,2316.0,2016
+Batman v Superman: Dawn of Justice,5.7,7189.0,2016
+Jurassic Park III,5.7,2109.0,2001
+Hansel & Gretel: Witch Hunters,5.7,3290.0,2013
+Alien: Covenant,5.7,2677.0,2017
+Oz: The Great and Powerful,5.7,3576.0,2013
+The Twilight Saga: New Moon,5.6,2518.0,2009
+Sausage Party,5.6,2310.0,2016
+Pixels,5.6,2564.0,2015
+Clash of the Titans,5.6,2280.0,2010
+2012,5.6,4994.0,2009
+Noah,5.5,2408.0,2014
+The Legend of Tarzan,5.5,2488.0,2016
+Jack the Giant Slayer,5.5,2634.0,2013
+Fantastic Four,5.5,3040.0,2005
+Battleship,5.5,2141.0,2012
+Assassin's Creed,5.4,2776.0,2016
+G.I. Joe: Retaliation,5.4,3045.0,2013
+Cowboys & Aliens,5.4,2054.0,2011
+The Mummy,5.4,2122.0,2017
+Fantastic 4: Rise of the Silver Surfer,5.4,2648.0,2007
+Ghostbusters,5.3,2203.0,2016
+Jupiter Ascending,5.2,2816.0,2015
+Fifty Shades of Grey,5.2,3350.0,2015
+A Good Day to Die Hard,5.2,3519.0,2013
+Green Lantern,5.1,2551.0,2011
+After Earth,5.0,2579.0,2013
+Independence Day: Resurgence,4.9,2550.0,2016
+Fantastic Four,4.4,2322.0,2015
