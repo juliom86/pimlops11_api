@@ -15,7 +15,7 @@ def cantidad_filmaciones_mes(mes: str):
     return {'mes': mes, 'cantidad': d[0]}
 
 
-@app.get('/cantidad_filmaciones_dia{dia}')
+@app.get('/cantidad_filmaciones_dia/{dia}')
 def cantidad_filmaciones_dia(dia: str):
     '''Se ingresa el dia y la funcion retorna la cantidad de peliculas que se estrebaron ese dia historicamente'''
     df = pd.read_csv('peli_dia.csv')
